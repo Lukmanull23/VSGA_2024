@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project Aplikasi Input Nama</string>
+    <string name="nama_anda">"Nama Anda: "</string>
+    <string name="masukkan_nama_anda">Masukkan Nama Anda</string>
+    <string name="teksName" />
+    <string name="tampilkan">Tampilkan</string>
+</resources>
